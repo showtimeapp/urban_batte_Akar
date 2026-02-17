@@ -71,7 +71,7 @@ st.markdown(
 st.markdown(
     """
     <h2 style='text-align:center;color:#fff;background:#262730;padding:10px;border-radius:10px;'>
-    📰 Akar's News Search and Analysis Portal
+    📰 Urban Baatein News Search and Analysis Portal
     </h2>
     """,
     unsafe_allow_html=True,
